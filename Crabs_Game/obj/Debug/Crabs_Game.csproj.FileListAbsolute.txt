@@ -1,0 +1,10 @@
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\bin\Debug\Crabs_Game.exe.config
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\bin\Debug\Crabs_Game.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\bin\Debug\Crabs_Game.pdb
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.csproj.AssemblyReference.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.Form1.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.Properties.Resources.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.csproj.GenerateResource.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Crabs_Game\obj\Debug\Crabs_Game.pdb

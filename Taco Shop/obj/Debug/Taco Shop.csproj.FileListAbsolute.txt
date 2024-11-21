@@ -1,0 +1,10 @@
+C:\Users\gabiz\source\repos\Taco Shop\bin\Debug\Taco Shop.exe.config
+C:\Users\gabiz\source\repos\Taco Shop\bin\Debug\Taco Shop.exe
+C:\Users\gabiz\source\repos\Taco Shop\bin\Debug\Taco Shop.pdb
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco Shop.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco_Shop.Form1.resources
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco_Shop.Properties.Resources.resources
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco Shop.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco Shop.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco Shop.exe
+C:\Users\gabiz\source\repos\Taco Shop\obj\Debug\Taco Shop.pdb
