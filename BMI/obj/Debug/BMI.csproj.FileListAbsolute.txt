@@ -1,0 +1,10 @@
+E:\Gita 1\BMI\bin\Debug\BMI.exe.config
+E:\Gita 1\BMI\bin\Debug\BMI.exe
+E:\Gita 1\BMI\bin\Debug\BMI.pdb
+E:\Gita 1\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+E:\Gita 1\BMI\obj\Debug\BMI.Form1.resources
+E:\Gita 1\BMI\obj\Debug\BMI.Properties.Resources.resources
+E:\Gita 1\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+E:\Gita 1\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+E:\Gita 1\BMI\obj\Debug\BMI.exe
+E:\Gita 1\BMI\obj\Debug\BMI.pdb
