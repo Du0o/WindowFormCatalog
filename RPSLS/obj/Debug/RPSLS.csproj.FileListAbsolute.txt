@@ -1,0 +1,10 @@
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\bin\Debug\RPSLS.exe.config
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\bin\Debug\RPSLS.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\bin\Debug\RPSLS.pdb
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.csproj.AssemblyReference.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.Form1.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.Properties.Resources.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.csproj.GenerateResource.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\RPSLS\obj\Debug\RPSLS.pdb

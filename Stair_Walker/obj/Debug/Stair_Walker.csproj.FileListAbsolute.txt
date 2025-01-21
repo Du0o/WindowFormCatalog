@@ -1,0 +1,10 @@
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\bin\Debug\Stair_Walker.exe.config
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\bin\Debug\Stair_Walker.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\bin\Debug\Stair_Walker.pdb
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.csproj.AssemblyReference.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.Form1.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.Properties.Resources.resources
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.csproj.GenerateResource.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.exe
+C:\Users\gabiz\OneDrive\Documents\Desktop gita\Stair_Walker\obj\Debug\Stair_Walker.pdb
