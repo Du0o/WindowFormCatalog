@@ -1,0 +1,10 @@
+C:\Users\gabiz\source\repos\Sub2d\bin\Debug\Sub2d.exe.config
+C:\Users\gabiz\source\repos\Sub2d\bin\Debug\Sub2d.exe
+C:\Users\gabiz\source\repos\Sub2d\bin\Debug\Sub2d.pdb
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.Form1.resources
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.Properties.Resources.resources
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.exe
+C:\Users\gabiz\source\repos\Sub2d\obj\Debug\Sub2d.pdb
