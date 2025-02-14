@@ -1,0 +1,10 @@
+C:\Users\gabiz\source\repos\Star-Field\bin\Debug\Star-Field.exe.config
+C:\Users\gabiz\source\repos\Star-Field\bin\Debug\Star-Field.exe
+C:\Users\gabiz\source\repos\Star-Field\bin\Debug\Star-Field.pdb
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star-Field.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star_Field.Form1.resources
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star_Field.Properties.Resources.resources
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star-Field.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star-Field.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star-Field.exe
+C:\Users\gabiz\source\repos\Star-Field\obj\Debug\Star-Field.pdb
