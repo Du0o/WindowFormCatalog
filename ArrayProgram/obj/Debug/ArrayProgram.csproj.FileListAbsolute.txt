@@ -1,0 +1,10 @@
+C:\Users\gabiz\source\repos\ArrayProgram\bin\Debug\ArrayProgram.exe.config
+C:\Users\gabiz\source\repos\ArrayProgram\bin\Debug\ArrayProgram.exe
+C:\Users\gabiz\source\repos\ArrayProgram\bin\Debug\ArrayProgram.pdb
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.Form1.resources
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.Properties.Resources.resources
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.exe
+C:\Users\gabiz\source\repos\ArrayProgram\obj\Debug\ArrayProgram.pdb
