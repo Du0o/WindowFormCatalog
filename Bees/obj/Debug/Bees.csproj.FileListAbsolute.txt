@@ -1,0 +1,10 @@
+C:\Users\gabiz\source\repos\Bees\bin\Debug\Bees.exe.config
+C:\Users\gabiz\source\repos\Bees\bin\Debug\Bees.exe
+C:\Users\gabiz\source\repos\Bees\bin\Debug\Bees.pdb
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.Form1.resources
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.Properties.Resources.resources
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.exe
+C:\Users\gabiz\source\repos\Bees\obj\Debug\Bees.pdb
