@@ -16,7 +16,9 @@ namespace Bees
     public partial class Form1 : Form
     {
         // global variable setup
-        List<PictureBox> BeeList = new List<PictureBox>();
+        System.Random r = new System.Random((int)
+        System.DateTime.Now.Ticks);
+        List <PictureBox> BeeList = new List<PictureBox>();
         int BeeCount = 0;
         public Form1()
         {
@@ -45,9 +47,9 @@ namespace Bees
                     BeeList.ElementAt(BeeCount).Image =
                     Image.FromFile("Bee.png", true);
                     BeeList.ElementAt(BeeCount).Left =
-                    Hive.Left + 220;
+                    Hive.Left + 220 + r.Next(1,500);
                     BeeList.ElementAt(BeeCount).Top =
-                    Hive.Top + 200;
+                    Hive.Top + 200 + r.Next(-300, 500);
                     BeeList.ElementAt(BeeCount).SizeMode =
                     PictureBoxSizeMode.StretchImage;
                     BeeCount++;
@@ -81,6 +83,15 @@ namespace Bees
                     {
                         BeeList.ElementAt(i).Left -= 10;
                     }
+
+                    if (BeeList.ElementAt(i).Top < Hive.Top)
+                    {
+                        BeeList.ElementAt(i).Top += 10;
+                    }
+                    if (BeeList.ElementAt(i).Left < Hive.Left)
+                    {
+                        BeeList.ElementAt(i).Left += 10;
+                    }
                 }
                 else
                 {
@@ -93,6 +104,15 @@ namespace Bees
                     if (BeeList.ElementAt(i).Left < Flower.Left)
                     {
                         BeeList.ElementAt(i).Left += 10;
+                    }
+
+                    if (BeeList.ElementAt(i).Top < Flower.Top)
+                    {
+                        BeeList.ElementAt(i).Top += 10;
+                    }
+                    if (BeeList.ElementAt(i).Left > Flower.Left)
+                    {
+                        BeeList.ElementAt(i).Left -= 10;
                     }
                 }
                 
