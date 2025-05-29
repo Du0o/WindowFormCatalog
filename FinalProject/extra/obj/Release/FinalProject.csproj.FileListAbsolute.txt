@@ -1,0 +1,11 @@
+C:\Users\gabiz\source\repos\FinalProject\bin\Release\FinalProject.exe.config
+C:\Users\gabiz\source\repos\FinalProject\bin\Release\FinalProject.exe
+C:\Users\gabiz\source\repos\FinalProject\bin\Release\FinalProject.pdb
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.csproj.AssemblyReference.cache
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.Form1.resources
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.Form2.resources
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.Properties.Resources.resources
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.csproj.GenerateResource.cache
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.exe
+C:\Users\gabiz\source\repos\FinalProject\obj\Release\FinalProject.pdb
